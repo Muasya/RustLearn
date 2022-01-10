@@ -1,5 +1,6 @@
 # RustLearn
-A repo to store all my 6-Month Rust learning steps.
+A repo to store all my 6-Month Rust learning steps. (free time only!)
+at the end of the 6-month course, the repo will be a rust package for aparently unknown use but hopefully useful and fun one.
 
 # Instalation of the Rust Language
 (Linux - Debian)
