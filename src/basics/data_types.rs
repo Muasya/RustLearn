@@ -7,6 +7,9 @@ let x = 7;
 // it is not good to change x's value
 // for variables that are need to be changed later you include the 'mut' keyname
 let mut y = 7; // you can now change it later
+// constants are immutable
+const z = "me";
+
 
 
 
