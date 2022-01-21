@@ -4,3 +4,4 @@
 // the mod.rs file is the main file for the module and it exports the functions and structs that you want to be available to other modules
 
 pub mod introduction;
+pub mod data_types;
